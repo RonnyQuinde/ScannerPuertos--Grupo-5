@@ -30,9 +30,9 @@ Las instrucciones de este manual están orientadas a Windows.
 
 ## 3. Instalación y preparación
 
-1. Instalar Python 3 desde https://www.python.org/downloads/.
-2. Instalar Visual Studio Code desde https://code.visualstudio.com/.
-3. Descargar el proyecto desde su repositorio de GitHub mediante **Code → Download ZIP**.
+1. Instalar Python 3. 
+2. Instalar Visual Studio Code.
+3. Descargar el proyecto desde su repositorio de GitHub.
 4. Extraer el archivo ZIP.
 5. Abrir Visual Studio Code.
 6. Seleccionar **Archivo → Abrir carpeta** y elegir la carpeta que contiene `scanner_puertos.py`.
